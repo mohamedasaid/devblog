@@ -29,7 +29,7 @@ check in browser on http://localhost:5000/
 # App info
 
 Demo
-The Blog will be live comming soon
+Comming soon
 
 Version: 2.0.0
 License: MIT
