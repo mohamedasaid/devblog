@@ -1,6 +1,6 @@
 Blog
-Blog application, which is a blog website
-React bootstrap
+Blog application
+
 
 Install Dependencies
 npm install
